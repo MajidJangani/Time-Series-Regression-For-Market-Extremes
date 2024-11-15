@@ -1,6 +1,6 @@
 # Time-Series-Regression-For-Market-Extremes
 
-# # Intraday Market Range Prediction with ML
+# Intraday Market Range Prediction with ML
 
 ## Project Description
 This project uses quantitative modeling and machine learning techniques to predict intraday market price range extremes (highs and lows) relative to the opening price of the SPDR Gold Trust ETF (GLD), with a focus on methodological analysis and insights over predictive accuracy.
@@ -15,4 +15,4 @@ This project uses quantitative modeling and machine learning techniques to predi
   - Performance and risk analysis via pyfolio.
 
 ## Learn More
-[Project Link](<your-link-here>)
+[Project Link](<Predicting capital market Regression.md>)
