@@ -1,3 +1,8 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
 ### 1. Project Overview
 
 This project aims to develop a trading strategy capable of predicting corruent day market price range. Specifically, The goal is to forecast potential upward and downward deviations range from the market's opening price within a single trading session.The primary objective is to apply quantitative modeling techniques and machine learning methods to intraday price movements, rather than to achieve high predictive accuracy.
