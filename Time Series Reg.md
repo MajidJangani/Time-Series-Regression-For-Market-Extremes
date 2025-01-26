@@ -1,4 +1,4 @@
-Copy---
+---
 layout: default
 title: "Time Series Market Extreme Prediction"
 permalink: /Time-Series-Reg
