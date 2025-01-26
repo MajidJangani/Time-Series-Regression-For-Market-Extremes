@@ -1,11 +1,8 @@
 ---
 layout: default
-title: "Projects"
+title: "Time Series Regression for Market Extremes"
 ---
-# Project Showcase
 
-## [Time Series Regression for Market Extremes](/Time-Series-Reg)
-Predictive modeling for intraday market prices using machine learning techniques.
+Welcome to my Time Series Regression project. 
 
-## Other Projects
-- [View All Projects](/projects)
+- [Project Details]({{ site.baseurl }}/Time-Series-Reg)
