@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Time Series Regression for Market Extremes"
+title: "Time Series Market Extreme Prediction"
+permalink: /Time-Series-Reg
 ---
 
 Welcome to my Time Series Regression project. 
