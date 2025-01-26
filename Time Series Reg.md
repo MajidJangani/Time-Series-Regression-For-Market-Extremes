@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Time Series Market Extreme Prediction"
+---
+
 # Project Overview
 
 This project aims to develop a trading strategy capable of predicting corruent day market price range. Specifically, The goal is to forecast potential upward and downward deviations range from the market's opening price within a single trading session.The primary objective is to apply quantitative modeling techniques and machine learning methods to intraday price movements, rather than to achieve high predictive accuracy.
