@@ -1,7 +1,7 @@
 # Time-Series-Regression-For-Market-Extremes
 
 ## Live Project
-View the complete project analysis and implementation at [GitHub Pages](https://majidjangani.github.io/Portfolio-Construction-Optimization-/)
+View the complete project analysis and implementation at [GitHub Pages](https://majidjangani.github.io/Time-Series-Regression-For-Market-Extremes/)
 
 ## Objectives
 - **Forecast intraday price deviations**: Predict potential high and low price ranges from the market's opening price.
