@@ -1,0 +1,24 @@
+---
+---
+@import "{{ site.theme }}";
+/* Override the theme's default styles */
+.inner {
+    max-width: 1200px !important;
+    position: relative;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+#main_content {
+    padding-top: 20px !important;
+}
+#main_content_wrap {
+    padding-top: 20px !important;
+    background: #f2f2f2;
+}
+#header_wrap .inner {
+    padding: 20px 10px 20px 10px;
+}
+#project_title {
+    margin: 0;
+    padding: 0;
+}
