@@ -3,12 +3,6 @@
 ## Live Project
 View the complete project analysis and implementation at [GitHub Pages](https://majidjangani.github.io/Portfolio-Construction-Optimization-/)
 
-
-# Predicting Intraday Price Ranges for GLD
-
-## Project Overview
-This project focuses on developing a trading strategy that predicts the market price range for a single trading day. The aim is to forecast potential upward and downward deviations from the market's opening price within the same session. While achieving high predictive accuracy is not the primary goal, this project emphasizes the application of quantitative modeling and machine learning techniques to analyze intraday price movements and provide actionable insights for traders.
-
 ## Objectives
 - **Forecast intraday price deviations**: Predict potential high and low price ranges from the market's opening price.
 - **Leverage quantitative techniques**: Apply advanced modeling and machine learning methods for financial data analysis.
