@@ -8,12 +8,6 @@ View the complete project analysis and implementation at [GitHub Pages](https://
 - **Leverage quantitative techniques**: Apply advanced modeling and machine learning methods for financial data analysis.
 - **Enhance interpretability**: Ensure the results are clear and actionable for traders.
 
-## Why SPDR Gold Trust ETF (GLD)?
-The SPDR Gold Trust ETF (GLD) is chosen as the asset of interest due to its:
-- **Accessibility**: GLD provides a straightforward way to gain exposure to gold price movements without trading futures or handling physical gold.
-- **Liquidity**: As a widely traded asset, GLD mirrors gold price dynamics closely, offering a reliable dataset for analysis.
-
-By focusing on GLD, the project aligns with the broader objective of forecasting price deviations within a highly liquid and accessible market.
 
 ## Methodology
 1. **Data Sourcing**: Obtain historical price data for GLD to analyze intraday movements.
